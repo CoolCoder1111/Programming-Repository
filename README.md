@@ -14,3 +14,6 @@ Description: This file is the code used to represent Object Oritentated Programm
 
 Filename: PythonOOP.png
 Description: The image shows the code put into w3schools and being ran. The code is ran and outputs that all three flowers are bloomin and growing
+
+Filename: JasonLuduFlowerClass
+Description: This is a diagram of the flower class I have coded into w3schools and the process it goes through.
