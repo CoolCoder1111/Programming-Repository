@@ -17,3 +17,6 @@ Description: The image shows the code put into w3schools and being ran. The code
 
 Filename: JasonLuduFlowerClass
 Description: This is a diagram of the flower class I have coded into w3schools and the process it goes through.
+
+Filename: NetworkDesign.jpeg
+Description: it  is a diagram of how a network works using two computers, a printer, a modem, and a router.
