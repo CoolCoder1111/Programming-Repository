@@ -13,7 +13,7 @@ Filename: Flower.py
 Description: This file is the code used to represent Object Oritentated Programming (OOP) in Python. I have used a pre-existing class named "Flower" and gave it objects that are actions that the flower does, such as "bloom" or "grow". The two flowers found in the file are made already, called "Rose" and "Daisy". I have made another flower in the program called "Cornflower" and used the attributes "bloom" and "grow". The output will say that all three flowers will grow and bloom.
 
 Filename: PythonOOP.png
-Description: The image shows the code put into w3schools and being ran. The code is ran and outputs that all three flowers are bloomin and growing
+Description: The image shows the code put into w3schools and being ran. The code is ran and outputs that all three flowers are blooming and growing
 
 Filename: JasonLuduFlowerClass.pdf
 Description: This is a diagram of the flower class I have coded into w3schools and the process it goes through.
@@ -23,3 +23,6 @@ Description: it  is a diagram of how a network works using two computers, a prin
 
 Filename: SQLQuery.png
 Description: It is a image of code that takes all the data from the OrderDetails table, sorts the quantity by >20, and filters it by the Product ID.
+
+Filename: MyHTML.png
+Description: It is a screenshot of my code I ran in the w3schools tryit editor. Its theme is based on a fictional company I made up in my head and was funny to me.
