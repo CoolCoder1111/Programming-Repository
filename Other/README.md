@@ -15,6 +15,15 @@ Description: The Ludu Corporation Logo Concept is a logo to be used in a website
 
 
 
+
+
+
+
+
+
+
+
+
 Filename: MyHTML.png 
 
 Description: It is a screenshot of my code I ran in the w3schools tryit editor. Its theme is based on a fictional company I made up in my head and was funny to me.
