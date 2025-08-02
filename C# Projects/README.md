@@ -1,0 +1,1 @@
+This is all of my coding project I have done in C# for my summer semester. Feel free to download the files and run them in Microsoft Visual Studio 2022. There will be file descriptions in the folders.
