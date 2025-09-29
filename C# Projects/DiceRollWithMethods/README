@@ -1,0 +1,1 @@
+This project's main method displays the result of the DiceRoll method five times without the use of an array. The DiceRoll method generates a random number and is stored in the word "number" and creates a x and y value. It then simulates a dice roll with x and y being the two dice. Finally, an integer named "total" grabs the total of x and y and returns it to the main method.
