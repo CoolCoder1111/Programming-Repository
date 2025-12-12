@@ -1,1 +1,1 @@
-
+This project is more about OOP and has three dogs in a kennel class. There is a seperate class for the dogs. The dogs can poop, bark, and eat. In the speak method, if the dogs weight is less than 25, the dog goes "yip yip", if the dogs weight is less than 50, the dog barks, or it can just go "WOOF!!". In the poop method, the weight is subtracted by the amount in the parameter. Same thing for the eat method but it just adds to the weight.
