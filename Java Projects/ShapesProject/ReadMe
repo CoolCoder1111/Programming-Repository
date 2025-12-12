@@ -1,0 +1,1 @@
+In this project, I create three shapes: a rectangle, a triangle, and a circle. In the console, it displays the area and perimeter and the area of all three shapes. For this project, I use abstraction to create an abstract class that applies it to every shape (ex. a triangle is classified as a shape).
