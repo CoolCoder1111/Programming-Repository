@@ -1,0 +1,2 @@
+something,200,200,true
+space,1000,1000,true
