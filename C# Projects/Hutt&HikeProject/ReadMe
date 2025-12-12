@@ -1,0 +1,1 @@
+In this program, it executes a for loop and prints out 100 numbers with the int i = 1. If i with the remainder of 3 equals 0, it will print "hutt". If i with the remainder of 7 equals 0, it will print "hike". If both statements are true, it will print "hutt and hike".
