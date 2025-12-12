@@ -1,0 +1,38 @@
+Catan,3,4,Strategy
+Ticket to Ride,2,5,Family
+Pandemic,2,4,Cooperative
+Carcassonne,2,5,Strategy
+Dominion,2,4,CardGame
+Terraforming Mars,1,5,Strategy
+7 Wonders,3,7,CardGame
+Gloomhaven,1,4,Strategy
+Azul,2,4,Abstract
+Wingspan,1,5,Strategy
+Splendor,2,4,Strategy
+Scythe,1,5,Strategy
+Dixit,3,6,Party
+Codenames,2,8,Party
+Betrayal at House on the Hill,3,6,Cooperative
+Chess,2,2,Abstract
+Risk,2,6,Strategy
+The Crew: The Quest for Planet Nine,2,5,Cooperative
+Love Letter,2,4,CardGame
+Small World,2,5,Strategy
+King of Tokyo,2,6,Family
+Patchwork,2,2,Abstract
+The Resistance,5,10,Party
+Hanabi,2,5,Cooperative
+Clue,2,6,Family
+Sushi Go!,2,5,CardGame
+Forbidden Island,2,4,Cooperative
+Tsuro,2,8,Abstract
+Camel Up,3,8,Family
+Spirit Island,1,4,Strategy
+Codewords,4,12,Party
+Battle Line,2,2,CardGame
+Blokus,2,4,Abstract
+Tokaido,2,5,Family
+Stone Age,2,4,Strategy
+Sheriff of Nottingham,3,5,Party
+Lost Cities,2,2,CardGame
+Arkham Horror: The CardGame,1,2,Cooperative
