@@ -1,0 +1,1 @@
+This project is just a simple math quiz. You start off with a score of 0 and if you get a question right, the score adds up, if you get it wrong, it doesn't add to your score. It displays the score at the end of the quiz and either celebrates your success or womp womps at your failure.
